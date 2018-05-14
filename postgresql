@@ -1,4 +1,14 @@
-#!/bin/bash   
+#!/bin/bash
+### BEGIN INIT INFO
+# Provides: postgresql
+# Required-Start:
+# Required-Stop:
+# Default-Start: 2 3 4 5
+# Default-Stop: 0 1 6
+# Short-Description: PostgreSQL init.d script
+# Description: PostgreSQL init.d script
+### END INIT INFO
+# Author: Aleksander Alekseev https://github.com/afiskon
 
 ## EDIT FROM HERE
 
